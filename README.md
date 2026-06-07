@@ -1,24 +1,54 @@
 # Olá, eu sou o Edevando Alves 👋
 
-### Fullstack Developer | Focado em Backend
+### Fullstack Developer | Focado em Engenharia de Backend
 
-Atualmente atuo como desenvolvedor web júnior, mas dedico meus maiores esforços na construção de sistemas escaláveis e APIs robustas.
+Desenvolvedor web com foco em backend, construção de APIs REST, modelagem de bancos de dados e arquitetura de sistemas escaláveis.
 
-- 🔭 Atualmente estou elaborando um *[Backend de CRM multi-tenant.](https://github.com/EdevandoAlves/api-nuvora-crm)*
+Atualmente atuo profissionalmente no desenvolvimento de aplicações web e dedico meus estudos ao aprofundamento em algoritmos, estruturas de dados, engenharia de software e ecossistema TypeScript.
 
-- 🌱 Estou aprendendo *TypeScript, Algoritmos e me aprofundando em desenvolvimento web*
+---
 
-- 📫 Meu contato: *edevando.xavier@gmail.com*
+### 🚀 No que estou trabalhando?
 
-- 📄 Minhas experiências: *[CV](https://docs.google.com/document/d/1uYcrjs5AqDqy-3laDZ3-R7pFF_-ZfSr0DU5dNSHXkKM/edit?usp=sharing)*
+- 🔭 **Nuvora CRM:** Desenvolvendo um *[Backend de CRM multi-tenant](https://github.com/EdevandoAlves/api-nuvora-crm)* completo, focado em isolamento de dados e escalabilidade.
+- 🌱 **Evolução Contínua:** Me aprofundando em Algoritmos, Estruturas de Dados e Ecossistema TypeScript Avançado.
+- 📄 **Quer saber mais sobre minha trajetória?** Acesse meu *[Currículo Completo](https://docs.google.com/document/d/1uYcrjs5AqDqy-3laDZ3-R7pFF_-ZfSr0DU5dNSHXkKM/edit?usp=sharing)*.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Backend & Banco de Dados**
 <p align="left">
-<a href="https://github.com/EdevandoAlves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="EdevandoAlves" height="30" width="40" /></a>
-<a href="https://twitter.com/Amorkkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Amorkkj" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,java,spring,php" alt="Backend Stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+**Frontend & Estilização**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend Stack" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdevandoAlves&show_icons=true&locale=en&layout=compact" alt="EdevandoAlves" /></p>
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdevandoAlves&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdevandoAlves&layout=compact&theme=gotham&langs_count=7" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 🤝 Conecte-se comigo
+
+<p align="left">
+  <a href="https://github.com/EdevandoAlves" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:edevando.xavier@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/Amorkkj" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
