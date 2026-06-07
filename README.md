@@ -1,6 +1,6 @@
 # Olá, eu sou o Edevando Alves 👋
 
-### Fullstack Developer | Focado em Engenharia de Backend
+### Fullstack Developer | Focado em Backend
 
 Desenvolvedor web com foco em backend, construção de APIs REST, modelagem de bancos de dados e arquitetura de sistemas escaláveis.
 
