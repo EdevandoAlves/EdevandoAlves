@@ -30,15 +30,6 @@ Atualmente atuo profissionalmente no desenvolvimento de aplicações web e dedic
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdevandoAlves&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdevandoAlves&layout=compact&theme=gotham&langs_count=7" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ### 🤝 Conecte-se comigo
 
 <p align="left">
