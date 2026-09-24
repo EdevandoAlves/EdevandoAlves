@@ -1,45 +1,86 @@
 # Olá, eu sou o Edevando Alves 👋
 
-### Fullstack Developer | Focado em Backend
+### Backend & Fullstack Developer
 
-Desenvolvedor web com foco em backend, construção de APIs REST, modelagem de bancos de dados e arquitetura de sistemas escaláveis.
+Desenvolvedor com foco em **Backend, APIs, integrações e automação de processos**.
 
-Atualmente atuo profissionalmente no desenvolvimento de aplicações web e dedico meus estudos ao aprofundamento em algoritmos, estruturas de dados, engenharia de software e ecossistema TypeScript.
+Atuo profissionalmente desenvolvendo ferramentas internas e soluções web, integrando sistemas, centralizando dados e transformando processos manuais em aplicações e fluxos automatizados.
 
----
+Meu foco técnico atual está em **Node.js, TypeScript, PostgreSQL e arquitetura backend**, além de estudos e projetos com **Java, Spring Boot e React**.
 
-### 🚀 No que estou trabalhando?
-
-- 🔭 **Nuvora CRM:** Desenvolvendo um *[Backend de CRM multi-tenant](https://github.com/EdevandoAlves/api-nuvora-crm)* completo, focado em isolamento de dados e escalabilidade.
-- 🌱 **Evolução Contínua:** Me aprofundando em Algoritmos, Estruturas de Dados e Ecossistema TypeScript Avançado.
-- 📄 **Quer saber mais sobre minha trajetória?** Acesse meu *[Currículo Completo](https://docs.google.com/document/d/1uYcrjs5AqDqy-3laDZ3-R7pFF_-ZfSr0DU5dNSHXkKM/edit?usp=sharing)*.
+🌐 **[Portfólio](https://edevando-alves.netlify.app/)**
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Projeto em destaque
 
-**Backend & Banco de Dados**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,java,spring,php" alt="Backend Stack" />
-</p>
+### [Nuvora CRM](https://github.com/EdevandoAlves/api-nuvora-crm)
 
-**Frontend & Estilização**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend Stack" />
-</p>
+Backend de um CRM/SaaS **multi-tenant**, desenvolvido para aprofundar conceitos de arquitetura backend, segurança, modelagem de dados e construção de APIs.
+
+**Node.js · TypeScript · Fastify · TypeORM · PostgreSQL · Docker**
+
+* 🔐 Autenticação com JWT
+* 🏢 Isolamento de dados por organização
+* 🛡️ Controle de acesso baseado em funções (RBAC)
+* 👥 Gestão de clientes e contatos
+* 💼 Gestão de negócios, tarefas e produtos
+* 🗄️ Modelagem relacional e migrations
+* 🐳 Ambiente containerizado com Docker
+* 🌐 API REST estruturada em camadas
+
+**→ [Ver código e documentação](https://github.com/EdevandoAlves/api-nuvora-crm)**
 
 ---
 
-### 🤝 Conecte-se comigo
+## 💻 O que faço profissionalmente
+
+Tenho experiência prática construindo soluções para problemas reais de negócio, incluindo:
+
+* Desenvolvimento de **APIs e ferramentas internas**
+* Integrações entre **sistemas, CRMs e ERPs**
+* Automação de processos e workflows com **n8n**
+* Centralização e processamento de dados de diferentes fontes
+* Desenvolvimento de **crawlers e rotinas automatizadas**
+* Integração de aplicações web com **APIs REST**
+* Levantamento de necessidades e transformação de processos manuais em soluções digitais
+
+---
+
+## 🛠️ Stack
+
+### Principal
 
 <p align="left">
-  <a href="https://github.com/EdevandoAlves" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:edevando.xavier@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/Amorkkj" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres" alt="Stack principal" />
 </p>
+
+### Backend & Banco de Dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,nestjs,java,spring,php,mysql" alt="Backend e Banco de Dados" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
+</p>
+
+### Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Ferramentas" />
+</p>
+
+**Outras tecnologias e conceitos:** Fastify · TypeORM · JWT · REST APIs · SQL · n8n · Integrações de sistemas
+
+---
+
+## 📫 Contato
+
+🌐 **Portfólio:** [edevando-alves.netlify.app](https://edevando-alves.netlify.app/)
+
+📧 **Email:** [edevando.xavier@gmail.com](mailto:edevando.xavier@gmail.com)
+
+📄 **[Currículo](https://docs.google.com/document/d/1uYcrjs5AqDqy-3laDZ3-R7pFF_-ZfSr0DU5dNSHXkKM/edit?usp=sharing)**
