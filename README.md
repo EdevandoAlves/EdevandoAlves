@@ -82,5 +82,3 @@ Tenho experiência prática construindo soluções para problemas reais de negó
 🌐 **Portfólio:** [edevando-alves.netlify.app](https://edevando-alves.netlify.app/)
 
 📧 **Email:** [edevando.xavier@gmail.com](mailto:edevando.xavier@gmail.com)
-
-📄 **[Currículo](https://docs.google.com/document/d/1uYcrjs5AqDqy-3laDZ3-R7pFF_-ZfSr0DU5dNSHXkKM/edit?usp=sharing)**
