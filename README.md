@@ -1,84 +1,69 @@
 # Olá, eu sou o Edevando Alves 👋
 
-### Backend & Fullstack Developer
+**Backend & Fullstack Developer**
 
-Desenvolvedor com foco em **Backend, APIs, integrações e automação de processos**.
+Desenvolvo APIs, integrações e automações que transformam processos manuais em soluções digitais. Gosto de conectar sistemas, organizar dados e construir ferramentas que resolvem problemas reais de negócio.
 
-Atuo profissionalmente desenvolvendo ferramentas internas e soluções web, integrando sistemas, centralizando dados e transformando processos manuais em aplicações e fluxos automatizados.
-
-Meu foco técnico atual está em **Node.js, TypeScript, PostgreSQL e arquitetura backend**, além de estudos e projetos com **Java, Spring Boot e React**.
-
-🌐 **[Portfólio](https://edevando-alves.netlify.app/)**
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-477C68?style=flat-square)](https://edevando-alves.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-477C68?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edevando-alves/)
+[![E-mail](https://img.shields.io/badge/E--mail-477C68?style=flat-square&logo=gmail&logoColor=white)](mailto:edevando.xavier@gmail.com)
 
 ---
 
-## 🚀 Projeto em destaque
+## 01 / Projeto em destaque
 
-### [Nuvora CRM](https://github.com/EdevandoAlves/api-nuvora-crm)
+### [Nuvora CRM ↗](https://github.com/EdevandoAlves/api-nuvora-crm)
 
-Backend de um CRM/SaaS **multi-tenant**, desenvolvido para aprofundar conceitos de arquitetura backend, segurança, modelagem de dados e construção de APIs.
+Um CRM operacional full-stack para gestão comercial, com API multi-tenant e interface conectada a dados reais. O projeto reúne isolamento por organização, autenticação JWT, controle de acesso por papéis e um pipeline de negócios.
 
-**Node.js · TypeScript · Fastify · TypeORM · PostgreSQL · Docker**
+**NestJS · Fastify · React · TypeScript · PostgreSQL · Docker**
 
-* 🔐 Autenticação com JWT
-* 🏢 Isolamento de dados por organização
-* 🛡️ Controle de acesso baseado em funções (RBAC)
-* 👥 Gestão de clientes e contatos
-* 💼 Gestão de negócios, tarefas e produtos
-* 🗄️ Modelagem relacional e migrations
-* 🐳 Ambiente containerizado com Docker
-* 🌐 API REST estruturada em camadas
+[![Dashboard do Nuvora CRM mostrando pipeline, tarefas e atividade comercial](https://raw.githubusercontent.com/EdevandoAlves/api-nuvora-crm/main/docs/screenshots/dashboard.webp)](https://github.com/EdevandoAlves/api-nuvora-crm)
 
-**→ [Ver código e documentação](https://github.com/EdevandoAlves/api-nuvora-crm)**
+[Conhecer o projeto e sua documentação →](https://github.com/EdevandoAlves/api-nuvora-crm)
 
----
+## 02 / Outros projetos
 
-## 💻 O que faço profissionalmente
+### [java-menu.nvim ↗](https://github.com/EdevandoAlves/java-menu.nvim)
 
-Tenho experiência prática construindo soluções para problemas reais de negócio, incluindo:
+Plugin para Neovim que reúne ações contextuais para desenvolvimento Java, incluindo geração de código, refatoração, build e testes.
 
-* Desenvolvimento de **APIs e ferramentas internas**
-* Integrações entre **sistemas, CRMs e ERPs**
-* Automação de processos e workflows com **n8n**
-* Centralização e processamento de dados de diferentes fontes
-* Desenvolvimento de **crawlers e rotinas automatizadas**
-* Integração de aplicações web com **APIs REST**
-* Levantamento de necessidades e transformação de processos manuais em soluções digitais
+**Lua · Neovim · Java · JDTLS**
 
----
+### [Capital Gains Calculator ↗](https://github.com/EdevandoAlves/capital-gains-calculator)
 
-## 🛠️ Stack
+Aplicação de linha de comando em Java que processa operações de ações e simula cálculos de ganhos, perdas e impostos com precisão decimal. As regras tributárias são uma simulação educacional.
 
-### Principal
+**Java 21 · Maven · JSON · BigDecimal**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres" alt="Stack principal" />
-</p>
+## 03 / O que construo
 
-### Backend & Banco de Dados
+- APIs e ferramentas internas para necessidades de negócio.
+- Integrações entre aplicações, CRMs e ERPs.
+- Automações e fluxos de dados com n8n, crawlers e rotinas programadas.
+- Aplicações web que centralizam informações de diferentes fontes.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,nestjs,java,spring,php,mysql" alt="Backend e Banco de Dados" />
-</p>
+## 04 / Tecnologias
 
-### Frontend
+**Foco atual:** Node.js · TypeScript · PostgreSQL · arquitetura backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
-</p>
+**Backend e dados:** NestJS · Fastify · Express · TypeORM · SQL · Java · Spring Boot
 
-### Ferramentas
+**Frontend e ferramentas:** React · HTML · CSS · Tailwind CSS · Docker · Git · n8n
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Ferramentas" />
-</p>
+Também estudo Java, Spring Boot e React por meio de projetos e experimentos.
 
-**Outras tecnologias e conceitos:** Fastify · TypeORM · JWT · REST APIs · SQL · n8n · Integrações de sistemas
+## 05 / Atividade no GitHub
+
+<details>
+<summary>Ver estatísticas</summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EdevandoAlves&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=82bba0&amp;icon_color=82bba0&amp;text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api?username=EdevandoAlves&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=477c68&amp;icon_color=477c68&amp;text_color=24292f" alt="Estatísticas públicas do GitHub de Edevando Alves">
+</picture>
+</details>
 
 ---
 
-## 📫 Contato
-
-🌐 **Portfólio:** [edevando-alves.netlify.app](https://edevando-alves.netlify.app/)
-
-📧 **Email:** [edevando.xavier@gmail.com](mailto:edevando.xavier@gmail.com)
+[Portfólio](https://edevando-alves.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/edevando-alves/) · [E-mail](mailto:edevando.xavier@gmail.com)
